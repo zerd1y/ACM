@@ -84,4 +84,4 @@ while(b > 0)
 void f(int x, int y, int n) {
 }
 ```
-- x,y为坐标  n为大小（单位图形量）
+- x,y为坐标  n为大小（单位图形量）（几轮回）
